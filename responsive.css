@@ -1,0 +1,125 @@
+@media all and (max-width:1400px){
+   .container{
+    width:100%;
+    max-width: 100%;
+    margin:auto;
+   }
+   
+}
+
+@media all and (max-width:1120px){
+    .logo{
+        width:30%;
+    }
+    .menu{
+        width:70%;
+        text-align:right;
+    }
+   
+   .menu ul li a {
+    padding:15px 7px;
+    font-size: 14px;
+   
+  }
+  
+  .logo a {
+    padding: 12px 20px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+  .banner{
+    padding:100px 0;
+  }
+
+  .service{
+    padding:40px 0;
+  }
+  .service h2{
+    margin-bottom:15px;
+  }
+  .service .box{
+    width:25%;
+    margin-top:40px;
+  }
+
+ }
+
+ @media all and (max-width:800px){
+    .service .box{
+        width:40%;
+     
+      }
+
+ }
+
+ @media all and (max-width:660px){
+    .logo{
+        width:100%;
+        text-align:center;
+    }
+    .menu{
+        width:100%;
+        
+    }
+   
+    .menu ul{
+        text-align:center;
+    }
+   .menu ul li a {
+    padding:15px 7px;
+    font-size: 14px;
+   
+  }
+  
+  .logo a {
+    padding: 12px 20px;
+    font-size: 20px;
+    transition: 0.5s;
+  }
+
+  .service .box{
+   
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin-left: 0;
+ 
+  }
+  .about .left{
+    width:100%;
+    float:none;
+  }
+  .about .right{
+    width:100%;
+   text-align:center;
+   float:none;
+   padding:0px 20px;
+  
+  
+  }
+.about p.subtitle {
+  
+   margin-bottom:5px;
+}
+
+.contact-area {
+   
+    padding: 20px 0;
+
+ }
+ .contact p {
+    
+    margin-top: 10px;
+  }
+
+  .cont-box {
+    width: 100%;
+    text-align: center;
+    float: none;
+    margin-top: 10px;
+    transition: 0.5s;
+    margin-bottom:10px;
+  }
+
+}
+ 
